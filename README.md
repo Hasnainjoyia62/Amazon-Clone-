@@ -6,7 +6,7 @@ A fully responsive front-end clone of the Amazon homepage built from scratch. Th
 You can view the live project here: [https://amazone-clone5.netlify.app/] 
 
 ## 📸 Preview
-(path-to-your-screenshot.png)
+(Screenshot 2026-06-15 121855.jpg)
 
 ## 🛠️ Features
 - **Pixel-Perfect UI:** Closely replicates the modern Amazon homepage design.
